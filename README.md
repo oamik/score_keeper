@@ -1,2 +1,2 @@
 # Live Demo
-[Play Score Kepper](https://oamik.github.io/score_keeper/)
+[Play Score Keeper](https://oamik.github.io/score_keeper/)
